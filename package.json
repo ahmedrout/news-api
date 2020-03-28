@@ -1,0 +1,16 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d news-api"
+  },
+  "keywords": [],
+  "author": "",
+  "homepages": "https://ahmedrout.github.io/news-api"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
